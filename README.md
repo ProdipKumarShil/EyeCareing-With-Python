@@ -25,7 +25,7 @@ pip install pyttsx3
 3. Run the script:
 
    ```bash
-   python eye_rest_reminder.py
+   python main.py
    ```
 4. Every 20 minutes, a voice reminder will play asking you to rest your eyes.
 
@@ -42,5 +42,5 @@ pip install pyttsx3
 
 **Prodip Kumar Shil**
 Web & Python Developer
-[LinkedIn](https://www.linkedin.com/in/prodip-kumar-shil) | [GitHub](https://github.com/ProdipKumarShil)
+[LinkedIn](https://www.linkedin.com/in/prodipkumarshil) | [GitHub](https://github.com/ProdipKumarShil)
 
